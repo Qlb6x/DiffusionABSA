@@ -21,7 +21,7 @@ We have prepared the default training parameters in `configs`. Try this demo:
 ```
 CUBLAS_WORKSPACE_CONFIG=:4096:8 python diffusionabsa.py train --config configs/penga_14lap.conf
 ```
-In general, training with only one RTX 3090 GPU acheives comparable performance with the results reported in the paper.
+In general, training with only one RTX 3090 GPU achieves comparable performance with the results reported in the paper.
 
 ## Acknowledgement
 Thanks to the work ([DiffusionNER](https://github.com/tricktreat/DiffusionNER)) of relevant researcher for inspiring me.
