@@ -25,3 +25,9 @@ In general, training with only one RTX 3090 GPU acheives comparable performance 
 
 ## Acknowledgement
 Thanks to the work ([DiffusionNER](https://github.com/tricktreat/DiffusionNER)) of relevant researcher for inspiring me.
+
+## Citation
+If our work is useful for you, please consider citing our paper:
+```
+
+```
